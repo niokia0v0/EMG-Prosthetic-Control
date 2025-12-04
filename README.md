@@ -34,7 +34,7 @@ A Matlab/Arduino prototyping system that classifies human forearm EMG signals to
 Converting raw 1D EMG signals into 2D Time-Frequency Scalograms using Continuous Wavelet Transform (CWT). This image serves as the input for the neural network.
 <br>
 <div align="center">
-  <img src="images/scalogram.png" width="80%" alt="Scalogram Example">
+  <img src="images/scalogram.jpg" width="80%" alt="Scalogram Example">
 </div>
 
 <br>
